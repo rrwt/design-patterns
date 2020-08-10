@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "design-patterns"
+version = "0.1.0"
+description = "Design patterns in Python"
+authors = ["Rohit Rawat <rohitrawat2000@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+mypy = "^0.770"
+pylint = "^2.5.3"
+black={version = "*", allow-prereleases = true}
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
