@@ -15,3 +15,5 @@
 
 
 ## Behavioral Design Patterns
+
+1. [Observer](behavioral/observer/__init__.py)
