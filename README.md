@@ -9,9 +9,9 @@
 1. [Singleton](creational/singleton/__init__.py)
 
 
-## Structural
+## Structural Design Patterns
 
 1. [Decorator](structural/decorator/__init__.py)
 
 
-## Behavioral
+## Behavioral Design Patterns
