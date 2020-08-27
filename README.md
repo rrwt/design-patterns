@@ -17,3 +17,4 @@
 ## Behavioral Design Patterns
 
 1. [Observer](behavioral/observer/__init__.py)
+2. [Chain of Responsibility](behavioral/chain_of_responsibility/__init__.py)
