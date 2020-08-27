@@ -7,6 +7,7 @@
 ## Creational Design Patterns
 
 1. [Singleton](creational/singleton/__init__.py)
+2. [Factory Method](creational/factory_method/__init__.py)
 
 
 ## Structural Design Patterns
