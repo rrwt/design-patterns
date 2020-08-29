@@ -6,16 +6,17 @@
 
 ## Creational Design Patterns
 
-1. [Singleton](creational/singleton/__init__.py)
-2. [Factory Method](creational/factory_method/__init__.py)
+* [Singleton](creational/singleton/__init__.py)
+* [Factory Method](creational/factory_method/__init__.py)
+* [Abstract Factory](creational/abstract_factory/__init__.py)
 
 
 ## Structural Design Patterns
 
-1. [Decorator](structural/decorator/__init__.py)
+* [Decorator](structural/decorator/__init__.py)
 
 
 ## Behavioral Design Patterns
 
-1. [Observer](behavioral/observer/__init__.py)
-2. [Chain of Responsibility](behavioral/chain_of_responsibility/__init__.py)
+* [Observer](behavioral/observer/__init__.py)
+* [Chain of Responsibility](behavioral/chain_of_responsibility/__init__.py)
