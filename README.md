@@ -15,6 +15,7 @@
 
 * [Decorator](structural/decorator/__init__.py)
 * [Adapter](structural/adapter/__init__.py)
+* [Facade](structural/facade/__init__.py)
 
 
 ## Behavioral Design Patterns
