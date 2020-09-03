@@ -24,3 +24,4 @@
 * [Observer](behavioral/observer/__init__.py)
 * [Chain of Responsibility](behavioral/chain_of_responsibility/__init__.py)
 * [Strategy](behavioral/strategy/__init__.py)
+* [Iterator](behavioral/iterator/__init__.py)
